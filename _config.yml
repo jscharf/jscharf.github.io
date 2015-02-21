@@ -2,9 +2,9 @@
 title: Joshua Scharf
 email: josh.nscharf@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am a developer with a love for technology, and this is a website to showcase my work.
+  I am a software developer with a love for technology, and this is a website to showcase my work.
   Generally I gravitate toward web development, including JavaScript, PHP, and C# projects.
-  I think mobile apps are really cool too, and I hope to get some native mobile experience someday!
+  I think mobile apps are really cool too, and I hope to get some mobile development experience someday!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jscharf.github.io" # the base hostname & protocol for your site
 twitter_username: hogwashjosh

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Role of Education"
-date:   2013-02-11 10:12:52
+title:  "Every Cloud Has a Silver Lining"
+date:   2013-03-09 10:12:52
 categories: life psychology happiness inspiration
 ---
 
