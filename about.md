@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a software developer with a love for technology. Generally I gravitate toward web development, including JavaScript, PHP, and C# projects. Mobile app development is really interesting too, and the ubiquity of smartphones has enabled an app revolution that touches the lives of so many people today. We can do things now that we never could before, and I find that incredibly exciting.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+## Education
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am currently studying [Internet Application & Web Development][IAWD] at Algonquin College.
+
+[IAWD]: http://www3.algonquincollege.com/sat/program/internet-applications-web-development/
