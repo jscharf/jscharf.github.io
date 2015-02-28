@@ -16,13 +16,13 @@ A fitness tracking app for a gym near Toronto, ON to replace their paper-based t
 
 ## Personal
 
-#### [Blog](/ "Joshua Scharf's blog")
+#### [Blog](/blog "Joshua Scharf's blog")
 
 Created in 2013
 
 Built with the open source Jekyll blogging tool and hosted for free on Github Pages, it's a blog about life, sports, and technology.
 
-#### [Memories](http://teemedia.ca/josh/projects/MemorySharing2 "Memories - A memory sharing application")
+#### [Memories](https://github.com/jscharf/Memory-Sharing-Web-App "View the code on Github")
 
 Created in 2010
 
