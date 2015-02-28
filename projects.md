@@ -16,6 +16,12 @@ A fitness tracking app for a gym near Toronto, ON to replace their paper-based t
 
 ## Personal
 
+#### [Laravel Memories](https://github.com/jscharf/memories.laravel "View the code on Github")
+
+Created in 2014 (in development)
+
+A re-write of my original memory sharing application in [Laravel](http://laravel.com "Laravel"). Laravel is an awesome PHP framework for creating robust web applications.
+
 #### [Blog](/blog "Joshua Scharf's blog")
 
 Created in 2013
