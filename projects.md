@@ -28,7 +28,7 @@ Created in 2013
 
 Built with the open source Jekyll blogging tool and hosted for free on Github Pages, it's a blog about life, sports, and technology.
 
-#### [Memories](https://github.com/jscharf/Memory-Sharing-Web-App "View the code on Github")
+#### Memories
 
 Created in 2010
 
