@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I Gave Windows 8 a Second Chance"
-date: 2014-06-01 10:12:52
+date: 2014-06-01 17:00:00
 categories: technology windows
 ---
 

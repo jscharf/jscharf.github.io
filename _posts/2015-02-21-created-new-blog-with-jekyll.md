@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Created New Blog With Jekyll"
-date:   2015-02-21 10:12:52
+date:   2015-02-21 17:00:00
 categories: technology jekyll
 ---
 

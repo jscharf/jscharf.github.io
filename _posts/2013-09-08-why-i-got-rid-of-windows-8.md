@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I Got Rid of Windows 8"
-date: 2013-09-08 10:12:52
+date: 2013-09-08 17:00:00
 categories: technology windows
 ---
 
