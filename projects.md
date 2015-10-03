@@ -22,12 +22,6 @@ Created in 2014 (in development)
 
 A re-write of my original memory sharing application in [Laravel](http://laravel.com "Laravel"). Laravel is an awesome PHP framework for creating robust web applications.
 
-#### [Blog](/blog "Joshua Scharf's blog")
-
-Created in 2013
-
-Built with the open source Jekyll blogging tool and hosted for free on Github Pages, it's a blog about life, sports, and technology.
-
 #### Memories
 
 Created in 2010
