@@ -8,6 +8,6 @@ I am a software developer with a love for technology. Generally I gravitate towa
 
 ## Education
 
-I studied [Internet Application & Web Development][IAWD] at Algonquin College. In the program, I learned about many different aspects of web development, including Java, JavaScript, C#, and PHP programming.
+I studied [Internet Application & Web Development][IAWD] at Algonquin College. In the program, I learned about many different aspects of web development, including Java, C#, PHP, and JavaScript programming.
 
 [IAWD]: http://www3.algonquincollege.com/sat/program/internet-applications-web-development/
