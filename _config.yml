@@ -1,9 +1,8 @@
 # Site settings
-title: Josh Scharf
+title: Joshua Scharf
 subtitle: A developer with an eye for design
-email: josh.nscharf@gmail.com
+email: jscharf@ackroo.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am a software developer with a love for technology. Generally I gravitate toward web development, including JavaScript, PHP, and C# projects. Mobile app development is really interesting too, and the ubiquity of smartphones has enabled an app revolution that touches the lives of so many people today. We can do things now that we never could before, and I find that incredibly exciting.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jscharf.github.io" # the base hostname & protocol for your site
 twitter_username: hogwashjosh
