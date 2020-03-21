@@ -3,11 +3,11 @@ title: Joshua Scharf
 subtitle: A developer with an eye for design
 email: jscharf@ackroo.com
 description: > # this means to ignore newlines until "baseurl:"
-             Powered by Jekyll and hosted with Github Pages
+             Powered by Jekyll and hosted with Github Pages and Netlify
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jscharf.github.io" # the base hostname & protocol for your site
-twitter_username: hogwashjosh
 github_username:  jscharf
+linkedin_username: joshscharf
 
 # Build settings
 markdown: kramdown
