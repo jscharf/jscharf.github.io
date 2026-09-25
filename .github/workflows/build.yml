@@ -10,16 +10,8 @@ permissions:
 
 jobs:
   build:
-    name: Ruby ${{ matrix.ruby }}
+    name: Ruby 3.4.11
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        ruby:
-          - '2.7.8'
-          - '3.2'
-          - '3.4'
-          - '4.0'
 
     steps:
       - name: Check out repository
@@ -28,14 +20,11 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: ${{ matrix.ruby }}
-          bundler: '2.4.22'
-
-      - name: Update lockfile Bundler version
-        run: bundle _2.4.22_ lock --bundler 2.4.22
+          ruby-version: '3.4.11'
+          bundler: '2.6.9'
 
       - name: Install dependencies
-        run: bundle _2.4.22_ install
+        run: bundle install
 
       - name: Build site
-        run: bundle _2.4.22_ exec jekyll build
+        run: bundle exec jekyll build
