@@ -1,2 +1,6 @@
 _site
+.jekyll-cache
 .sass-cache
+.ruby-lsp
+.bundle
+.DS_Store
