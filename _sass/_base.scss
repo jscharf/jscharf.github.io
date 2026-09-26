@@ -1,3 +1,28 @@
+@use "sass:color";
+@use "sass:math";
+
+// Shared site settings used by the stylesheets.
+$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-size: 16px;
+$small-font-size: $base-font-size * 0.875;
+$base-line-height: 1.5;
+$spacing-unit: 30px;
+$text-color: #111;
+$background-color: #fdfdfd;
+$brand-color: #2a7ae2;
+$grey-color: #828282;
+$grey-color-light: color.adjust($grey-color, $lightness: 40%);
+$grey-color-dark: color.adjust($grey-color, $lightness: -25%);
+$content-width: 800px;
+$on-palm: 600px;
+$on-laptop: 800px;
+
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
 /**
  * Reset some basic elements
  */
@@ -32,7 +57,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: math.div($spacing-unit, 2);
 }
 
 
@@ -93,7 +118,7 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: color.adjust($brand-color, $lightness: -15%);
     }
 
     &:hover {
@@ -110,7 +135,7 @@ a {
 blockquote {
     color: $grey-color;
     border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
+    padding-left: math.div($spacing-unit, 2);
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
@@ -165,8 +190,8 @@ pre {
     @include media-query($on-laptop) {
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
         max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
+        padding-right: math.div($spacing-unit, 2);
+        padding-left: math.div($spacing-unit, 2);
     }
 }
 

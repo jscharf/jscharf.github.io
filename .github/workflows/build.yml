@@ -18,7 +18,7 @@ concurrency:
 
 jobs:
   build:
-    name: Ruby 3.4.11
+    name: Ruby 4.0.6
     runs-on: ubuntu-latest
 
     steps:
@@ -28,8 +28,8 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.4.11'
-          bundler: '2.6.9'
+          ruby-version: '4.0.6'
+          bundler: '4.0.16'
 
       - name: Install dependencies
         run: bundle install

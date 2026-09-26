@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-ruby '3.4.11'
+ruby '4.0.6'
 
-gem 'github-pages', '232'
+gem 'jekyll', '~> 4.4'
